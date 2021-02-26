@@ -33,6 +33,7 @@ Signed,
 - Alex Baletskyi ([@baletskyi](https://github.com/baletskyi)), Software Engineer, Canada
 - Alex Hackney ([@alexhackney](https://github.com/alexhackney)), Software Engineer, USA
 - Alex Kalineskou ([@akalineskou](https://github.com/akalineskou)), Software Engineer, Greece
+- Oladayo Ahmod ([@Oladayo-Ahmod](https://github.com/Oladayo-Ahmod)), Full stack developer. Nigeria
 - Alex Pavlov ([@alexpts](https://github.com/alexpts)), Full Stack Developer, Russian
 - Alex Teterin ([@errogaht](https://github.com/errogaht)), PHP Developer, Russia
 - Alexandr Chernyaev ([@tabuna](https://github.com/tabuna)), Backend Developer, Russia
